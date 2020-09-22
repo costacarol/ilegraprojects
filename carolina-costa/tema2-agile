@@ -1,0 +1,32 @@
+# Tema 2 - Agile
+
+## Faça uma lista com todos os métodos ágeis, incluindo Scrum e XP e explique em 2 ou 3 linhas como eles funcionam:
+
+Existem muitos métodos ágeis. Vou listar aqui 4 deles:
+
+**XP** : trabalha com loops de feedback, com a sua redução em cada etapa, por exemplo: meses -> semanas -> dias -> horas -> minutos -> segundos.
+Além disso, dá foco ao double loop learning, que é o metodo onde você muda o seu modelo mental, ou seja, a sua forma de pensar através dos feedbacks,
+influenciando diretamente na tomada de decisão.
+
+**Scrum** : no Scrum os projetos são divididos em ciclos, os sprints, e seguem uma lista de requisitos, o backlolg.
+Entretanto, ele não trabalha com datas e escopo fechado, então para o Scrum funcionar, o cliente final precisa estar comprometido e não somente envolvido com o projeto.
+
+**Kanban** :  é um metodo baseado nos principios de Lean, que surgiu para mudar o comportamento dos gerentes.
+Trabalha muito no visual (através de um quadro), seguindo um fluxo.
+
+**Lean** : é um conjunto de princípios que visa a redução dos desperdícios, otimizar o todo e não partes agregadas, e possui também o foco nas pessoas e em seu aprendizado.
+O Lean acredita que seguindo estas premissas é o caminho para alcançar a maturidade organizacional necessária para executar um projeto.
+
+
+## Faça um texto de 3 – 5 linhas explicando os problemas com agile:
+
+Os problemas com o agile parte do seu entendimento efetivo sobre as metodologias e a sua implementação. Além disso, cada método pode ser implantado,
+porém precisa ser atualizado (suas práticas) conforme vai se observando a sua efetividade. Por exemplo no Scrum, uma de suas práticas é seguir um
+backlog, o que muitas vezes faz a equipe seguir a lista e não pensar, não evoluindo o seu aprendizado e sugerindo sempre a presença do scrum master.
+
+
+
+## Qual a relação entre Agile/Lean e Bi Modal e DevOps?
+
+Todas elas foram criadas para tornar os processos mais ágeis e eficientes. Apresentam formas inovadoras condizentes com a época em
+que foram desenvolvidas. Priorizam o desenvolvimento ágil e principalmente a integração da equipe.

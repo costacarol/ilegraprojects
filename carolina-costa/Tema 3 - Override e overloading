@@ -1,0 +1,45 @@
+# Tema 3: override/overloading
+
+## Fazer um texto explicando o que é override e overloading. Enviar via PR.
+
+Override é quando um método é herdado da classe-pai para a classe-filha, mas o mesmo é sobrescrito, fazendo com que
+esta alteração seja no seu comportamento. Resumindo, o método terá a mesma assinatura da classe-pai, mas se comportará
+de forma diferente quando invocado pela classe filha. Um exemplo de override seria uma classe Animal (classe-pai) com
+ uma classe filha Cachorro. Na classe Animal, temos o método emitirSom, que imprime a frase "Emite som qualquer de animal",
+ porém, na classe Cachorro, nós sabemos que há um som específico emitido pelo Cachorro, então sobrescrevemos este método,
+ como no exemplo a seguir:
+
+public class Animal{
+
+public void emitirSom(){
+System.out.println("Emite som qualquer de animal");
+}
+}
+
+public class Cachorro extends Animal {
+
+@Override
+public void emitirSom(){
+System.out.println("au au");
+}
+}
+
+Por outro lado, Overloading é quando você tem métodos com o mesmo nome, dentro de uma mesma classe,
+mas que receberá parâmetros ou o tipo de dado diferente, podendo modificar o seu comportamento de acordo
+com o que foi recebido.Por exemplo:
+
+public class Cachorro {
+
+String nome;
+int idade;
+
+public void dadosCachorro(String nome){
+System.out.println("O nome do cachorro é " + nome);
+}
+
+
+public void dadosCachorro(String nome, int idade){
+System.out.println("O nome do cachorro é " + nome "e a sua idade é " + idade);
+}
+
+}
