@@ -1,0 +1,14 @@
+*/bin/
+*/build/
+*/.idea/
+*/.settings/
+/gradle/
+.classpath
+.project
+.xml
+build/test-results/test/TEST-com.costacarol.coreengineering.tema14.TeaTest.xml
+build/test-results/test/TEST-com.costacarol.coreengineering.tema14.HotChocolateTest.xml
+.iml
+/.metadata/
+/.recommenders/
+/out/

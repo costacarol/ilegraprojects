@@ -1,0 +1,13 @@
+*/bin/
+*/build/
+*/.idea/
+*/.settings/
+/gradle/
+.classpath
+.project
+.xml
+build/test-results/test/TEST-com.costacarol.coreengineering.tema13.context.NotificationContextTest.xml
+.iml
+/.metadata/
+/.recommenders/
+/out/
