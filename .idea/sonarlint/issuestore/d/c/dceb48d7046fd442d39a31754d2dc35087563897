@@ -1,0 +1,35 @@
+
+U
+java:S1854$":Remove this useless assignment to local variable "person".(ÛÂÈúÿÿÿÿ
+U
+java:S1854?":Remove this useless assignment to local variable "person".(ÛÂÈúÿÿÿÿ
+U
+java:S1854-":Remove this useless assignment to local variable "person".(ÛÂÈúÿÿÿÿ
+F
+java:S1481?"+Remove this unused "person" local variable.(ÛÂÈúÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "person".(ÛÂÈúÿÿÿÿ
+U
+java:S1854H":Remove this useless assignment to local variable "person".(ÛÂÈúÿÿÿÿ
+U
+java:S18546":Remove this useless assignment to local variable "person".(ÛÂÈúÿÿÿÿ
+U
+java:S1854Q":Remove this useless assignment to local variable "person".(ÛÂÈúÿÿÿÿ
+F
+java:S1481$"+Remove this unused "person" local variable.(ÛÂÈúÿÿÿÿ
+F
+java:S1481-"+Remove this unused "person" local variable.(ÛÂÈúÿÿÿÿ
+n
+java:S1192"SDefine a constant instead of duplicating this literal "Saturnino de Brito" 7 times.(Ìîßúÿÿÿÿ
+j
+java:S1192"ODefine a constant instead of duplicating this literal "Rio de Janeiro" 7 times.(Ìîßúÿÿÿÿ
+c
+java:S1192"NDefine a constant instead of duplicating this literal "Xuxa Meneghel" 6 times.(Æâßf
+F
+java:S1481H"+Remove this unused "person" local variable.(ÛÂÈúÿÿÿÿ
+F
+java:S1481"+Remove this unused "person" local variable.(ÛÂÈúÿÿÿÿ
+F
+java:S14816"+Remove this unused "person" local variable.(ÛÂÈúÿÿÿÿ
+F
+java:S1481Q"+Remove this unused "person" local variable.(ÛÂÈúÿÿÿÿ

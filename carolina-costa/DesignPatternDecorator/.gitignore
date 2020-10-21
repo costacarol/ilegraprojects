@@ -1,0 +1,14 @@
+*/bin/
+*/build/
+*/.idea/
+*/.settings/
+/gradle/
+.classpath
+.project
+.xml
+build/test-results/test/TEST-com.costacarol.coreengineering.tema17.decorator.AddBaconDecoratorTest.xml
+build/test-results/test/TEST-com.costacarol.coreengineering.tema17.decorator.AddCheeseDecoratorTest.xml
+.iml
+/.metadata/
+/.recommenders/
+/out/
