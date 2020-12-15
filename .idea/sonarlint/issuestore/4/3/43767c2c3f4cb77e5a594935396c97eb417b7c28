@@ -1,7 +1,0 @@
-
-[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(”ÿ»Ò
-`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ïà®‹üÿÿÿÿ
-[
-java:S1854"@Remove this useless assignment to local variable "stateBlueOff".(Á™¯ûÿÿÿÿ
-L
-java:S1481"1Remove this unused "stateBlueOff" local variable.(Á™¯ûÿÿÿÿ
