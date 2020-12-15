@@ -1,0 +1,13 @@
+*/bin/
+*/build/
+*/.idea/
+*/.settings/
+/gradle/
+.classpath
+.project
+.xml
+build/test-results/test/TEST-com.costacarol.cloudnative.tema3.annotation.service.CalculatorServiceTest.xml
+.iml
+/.metadata/
+/.recommenders/
+/out/

@@ -1,0 +1,3 @@
+rootProject.name = 'CloudTema6'
+include 'server'
+

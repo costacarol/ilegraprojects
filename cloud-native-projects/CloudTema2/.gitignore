@@ -1,0 +1,13 @@
+*/bin/
+*/build/
+*/.idea/
+*/.settings/
+/gradle/
+.classpath
+.project
+.xml
+build/test-results/test/TEST-com.costacarol.cloudnative.tema2.service.PetStoreServiceTest.xml
+.iml
+/.metadata/
+/.recommenders/
+/out/
