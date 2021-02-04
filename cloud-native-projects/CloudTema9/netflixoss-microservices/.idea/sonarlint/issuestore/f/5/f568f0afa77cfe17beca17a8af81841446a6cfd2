@@ -1,0 +1,18 @@
+
+I
+java:S1874O".Remove this use of "Double"; it is deprecated.(Üç»Ýþÿÿÿÿ
+I
+java:S1874G".Remove this use of "Double"; it is deprecated.(ùè ‡þÿÿÿÿ
+P
+java:S1874S".Remove this use of "Double"; it is deprecated.(’æ¬òùÿÿÿÿ8÷Ž¦™ï.
+r
+java:S1488>"\Immediately return this expression instead of assigning it to the temporary variable "json".(×À¦÷
+[	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(Å›‚ñ
+}
+java:S1488$"bImmediately return this expression instead of assigning it to the temporary variable "serverPort".(ÉÇÇÍüÿÿÿÿ
+I
+java:S1874K".Remove this use of "Double"; it is deprecated.(Úàßžþÿÿÿÿ
+I
+java:S1874C".Remove this use of "Double"; it is deprecated.(’Ïêáøÿÿÿÿ
+P
+java:S4719>":Replace Charset.forName() call with StandardCharsets.UTF_8(×À¦÷

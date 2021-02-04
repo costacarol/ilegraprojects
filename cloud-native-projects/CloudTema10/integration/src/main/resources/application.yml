@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: integration
+server:
+  port: 8080
+
+hystrix:
+  dashboard:
+    proxy-stream-allow-list: '*'
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: hystrix.stream
+      base-path: /

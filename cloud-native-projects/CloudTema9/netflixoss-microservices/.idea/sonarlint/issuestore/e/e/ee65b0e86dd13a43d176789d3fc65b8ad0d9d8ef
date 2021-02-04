@@ -1,0 +1,26 @@
+
+k
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(·ìÅéøÿÿÿÿ
+I
+java:S1874(".Remove this use of "Double"; it is deprecated.(µƒŞ øÿÿÿÿ
+I
+java:S18746".Remove this use of "Double"; it is deprecated.(éøÙøÿÿÿÿ
+I
+java:S1874-".Remove this use of "Double"; it is deprecated.(µƒŞ øÿÿÿÿ
+I
+java:S18742".Remove this use of "Double"; it is deprecated.(µƒŞ øÿÿÿÿ
+P
+java:S1874<".Remove this use of "Double"; it is deprecated.(µƒŞ øÿÿÿÿ8•‘©™ï.
+I
+java:S18747".Remove this use of "Double"; it is deprecated.(µƒŞ øÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ìÅéøÿÿÿÿ
+I
+java:S1874'".Remove this use of "Double"; it is deprecated.(éøÙøÿÿÿÿ
+I
+java:S18741".Remove this use of "Double"; it is deprecated.(éøÙøÿÿÿÿ
+P
+java:S1874;".Remove this use of "Double"; it is deprecated.(éøÙøÿÿÿÿ8•‘©™ï.
+<	java:S131%""Add a default case to this switch.(ÂÍè¶ÿÿÿÿÿ
+I
+java:S1874,".Remove this use of "Double"; it is deprecated.(éøÙøÿÿÿÿ

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="49945dbe-9e2b-48c4-bd54-4b174625305c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1mwGJaqU4jfksaUoEnzRsMYcqt9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="/usr/lib/jvm/java8" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunManager" selected="Application.ServerRunner">
+    <configuration name="ServerRunner (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.diegopacheco.sandbox.java.netflixoss.karyon.ServerRunner" />
+      <module name="netflixoss-microservices.mul-microservice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.diegopacheco.sandbox.java.netflixoss.karyon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerRunner (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.costacarol.cloudnative.tema09.ServerRunner" />
+      <module name="netflixoss-microservices.pow-microservice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.costacarol.cloudnative.tema09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerRunner (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.diegopacheco.sandbox.java.netflixoss.karyon.ServerRunner" />
+      <module name="netflixoss-microservices.div-microservice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.diegopacheco.sandbox.java.netflixoss.karyon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerRunner (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.diegopacheco.sandbox.java.netflixoss.karyon.ServerRunner" />
+      <module name="netflixoss-microservices.sub-microservice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.diegopacheco.sandbox.java.netflixoss.karyon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.diegopacheco.sandbox.java.netflixoss.karyon.msa.ServerRunner" />
+      <module name="netflixoss-microservices.calc-microservice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.diegopacheco.sandbox.java.netflixoss.karyon.msa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ServerRunner (3)" />
+        <item itemvalue="Application.ServerRunner (2)" />
+        <item itemvalue="Application.ServerRunner (1)" />
+        <item itemvalue="Application.ServerRunner" />
+        <item itemvalue="Application.ServerRunner (5)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49945dbe-9e2b-48c4-bd54-4b174625305c" name="Default Changelist" comment="" />
+      <created>1610397170657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610397170657</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.costacarol.cloudnative.tema8.annotation.service.CalculatorServiceTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2021-01-05T16:11:09" hostname="ilegra-OptiPlex-9020" time="0.018">
+  <properties/>
+  <testcase name="testGetResultOfRealizedOperation" classname="com.costacarol.cloudnative.tema8.annotation.service.CalculatorServiceTest" time="0.006"/>
+  <testcase name="testExecuteSumWithNegativeNumbers" classname="com.costacarol.cloudnative.tema8.annotation.service.CalculatorServiceTest" time="0.001"/>
+  <testcase name="testExecuteDivision" classname="com.costacarol.cloudnative.tema8.annotation.service.CalculatorServiceTest" time="0.0"/>
+  <testcase name="testExecuteSubWithNegativeNumbers" classname="com.costacarol.cloudnative.tema8.annotation.service.CalculatorServiceTest" time="0.001"/>
+  <testcase name="testExecuteMultiply" classname="com.costacarol.cloudnative.tema8.annotation.service.CalculatorServiceTest" time="0.001"/>
+  <testcase name="testExecutePow" classname="com.costacarol.cloudnative.tema8.annotation.service.CalculatorServiceTest" time="0.001"/>
+  <testcase name="testExecuteSub" classname="com.costacarol.cloudnative.tema8.annotation.service.CalculatorServiceTest" time="0.0"/>
+  <testcase name="testExecuteSum" classname="com.costacarol.cloudnative.tema8.annotation.service.CalculatorServiceTest" time="0.0"/>
+  <testcase name="testExecutePowWithNotInter" classname="com.costacarol.cloudnative.tema8.annotation.service.CalculatorServiceTest" time="0.0"/>
+  <testcase name="testExecuteDivisionWithNotInterResult" classname="com.costacarol.cloudnative.tema8.annotation.service.CalculatorServiceTest" time="0.001"/>
+  <testcase name="testGetResultOfRealizedOperationWithInvalidIndex" classname="com.costacarol.cloudnative.tema8.annotation.service.CalculatorServiceTest" time="0.001"/>
+  <testcase name="testExecuteDivisionWithZero" classname="com.costacarol.cloudnative.tema8.annotation.service.CalculatorServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO org.springframework.test.context.support.DefaultTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+[Test worker] INFO org.springframework.test.context.support.DefaultTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@139b4c4e, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@254293b8, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@15be627d, org.springframework.test.context.support.DirtiesContextTestExecutionListener@3e9e052e, org.springframework.test.context.event.EventPublishingTestExecutionListener@772ec78f]
+]]></system-err>
+</testsuite>
