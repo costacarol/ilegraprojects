@@ -1,5 +1,5 @@
 # Ilegraprojects
-Projetos realizados durante o período de estágio na IlegraBR
+Projects carried out during the internship period on IlegraBR.
 
 ## First Projects
 
