@@ -1,6 +1,18 @@
 # Ilegraprojects
 Projetos realizados durante o período de estágio na IlegraBR
 
+## First Projects
+
+* [ContactBook](https://github.com/costacarol/ilegraprojects/tree/master/meus-primeiros-projetos/ContactBook)
+* [ContactBook with Database](https://github.com/costacarol/ilegraprojects/tree/master/meus-primeiros-projetos/ContactBookWithDatabase)
+* [Design Patterns - Builder](https://github.com/costacarol/ilegraprojects/tree/master/meus-primeiros-projetos/DesignPatternBuilder)
+* [Design Patterns - Decorator](https://github.com/costacarol/ilegraprojects/tree/master/meus-primeiros-projetos/DesignPatternDecorator)
+* [Design Patterns - Factory](https://github.com/costacarol/ilegraprojects/tree/master/meus-primeiros-projetos/DesignPatternFactory)
+* [Design Patterns - Strategy](https://github.com/costacarol/ilegraprojects/tree/master/meus-primeiros-projetos/DesignPatternStrategy)
+* [Design Patterns - Template Method](https://github.com/costacarol/ilegraprojects/tree/master/meus-primeiros-projetos/DesignPatternTemplateMethod)
+* [Lamp](https://github.com/costacarol/ilegraprojects/tree/master/meus-primeiros-projetos/LampWithTests)
+* [Multithreading](https://github.com/costacarol/ilegraprojects/tree/master/meus-primeiros-projetos/Multithreading)
+
 ## Cloud Native Projects
 
 * Cloud 1 - [Calculator with Spring](https://github.com/costacarol/ilegraprojects/tree/master/cloud-native-projects/CloudTema1/)
