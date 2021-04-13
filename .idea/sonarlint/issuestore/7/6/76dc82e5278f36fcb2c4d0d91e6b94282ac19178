@@ -1,8 +1,0 @@
-
-k	java:S116"WRename this field "public_repos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³κιI
->
-java:S1068"(Remove this unused "name" private field.(Λ¥Ό
-<
-java:S1068"&Remove this unused "id" private field.(ζ¨η†
-E
-java:S1068"0Remove this unused "public_repos" private field.(³κιI

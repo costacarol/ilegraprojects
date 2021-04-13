@@ -1,3 +1,0 @@
-
-w
-G.idea/sonarlint/issuestore/5/9/59873124b1fb541e68a09e83ac770a9fcf9a7f90,6/1/61f430c000e1515b65233198fef378cb8a0654b4
