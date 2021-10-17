@@ -1,17 +1,5 @@
 package com.costacarol.coreengineering.tema6;
 
-/*
-            System.out.println("Este contato não foi adicionado, pois já existe na agenda.");
-            System.out.println(contact.getName() + " foi adicionado com sucesso. Id nº " + contact.getId());
-
-            System.out.println("");
-            System.out.println("O contato acima foi removido com sucesso.");
-            System.out.println("Este contato não pode ser removido, pois ele não existe.");
-                   for (Contact search : contactBook) {
-            if (search != null) {
- */
-
-
 public class Main {
     public static void main(String[] args) {
         ContactBook contactBook = new ContactBook();
